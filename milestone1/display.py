@@ -20,4 +20,4 @@ except InvalidRangeException as ire:
     print(ire)
 except ValueError as e:
     print(f'Only Integer is allowed {e}')
-
+    
